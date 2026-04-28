@@ -4,7 +4,7 @@ This is a simple implementation of the classic Snake game using HTML, CSS, and J
 
 <h2>Getting Started</h2>
 
-To play the game, simply open the link <a href="https://mohdriyaan.github.io/snake-game/">Snake-Game</a> in your web browser. The game will start automatically, and you can control the snake using the arrow keys on your keyboard.
+The game will start automatically, and you can control the snake using the arrow keys on your keyboard.
 
 <h2>How To Play</h2>
 
